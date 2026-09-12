@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=200&section=header&text=Darsh%20Pandya&fontSize=68&fontColor=ffffff&fontAlignY=32&desc=Software%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Applied%20Research&descAlignY=54&descSize=17&animation=fadeIn" width="100%" alt="Darsh Pandya" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&height=45&lines=Software+Engineer+%40+SPHERE+Research+Infrastructure;Building+scalable+distributed+systems;MSCS+%40+Northeastern+University;Published+at+ACSAC+2026+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=860&height=50&lines=Software+Engineer+%40+SPHERE+Research+Infrastructure;Building+scalable+distributed+systems;MSCS+%40+Northeastern+University;Published+at+ACSAC+2026+%F0%9F%8E%93" alt="Typing SVG" />
 </a>
 
 <br/>
