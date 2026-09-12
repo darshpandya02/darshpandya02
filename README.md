@@ -67,20 +67,26 @@ const darsh = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=darshpandya02&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshpandya02&layout=compact&langs_count=8&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=darshpandya02&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darshpandya02&layout=compact&langs_count=8&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=darshpandya02&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=darshpandya02&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshpandya02&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="100%" />
+<img src="https://ghchart.rshah.org/58A6FF/darshpandya02" alt="Contribution chart" width="100%" />
+
+<br/><br/>
+
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darshpandya02&theme=github_dark" alt="Repos per language" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darshpandya02&theme=github_dark" alt="Most commit language" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=darshpandya02&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darshpandya02&theme=github_dark" alt="Profile stats" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=darshpandya02&theme=github_dark&utcOffset=-5" alt="Productive time" />
 
 </div>
 
@@ -105,16 +111,16 @@ const darsh = {
 <div align="center">
 
 <a href="https://github.com/darshpandya02/vate">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darshpandya02&repo=vate&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" alt="vate" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=darshpandya02&repo=vate&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" alt="vate" />
 </a>
 <a href="https://github.com/darshpandya02/BSDS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darshpandya02&repo=BSDS&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" alt="BSDS" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=darshpandya02&repo=BSDS&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" alt="BSDS" />
 </a>
 <a href="https://github.com/darshpandya02/ceekay-chem">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darshpandya02&repo=ceekay-chem&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" alt="ceekay-chem" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=darshpandya02&repo=ceekay-chem&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" alt="ceekay-chem" />
 </a>
 <a href="https://github.com/darshpandya02/health-dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darshpandya02&repo=health-dashboard&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" alt="health-dashboard" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=darshpandya02&repo=health-dashboard&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" alt="health-dashboard" />
 </a>
 
 </div>
