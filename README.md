@@ -27,15 +27,14 @@ const darsh = {
   focus:     ["Distributed Systems", "Backend Engineering", "Full-Stack", "Applied ML"],
   currently: "Building public research infrastructure for reproducible cybersecurity",
   previously:["NetSi", "Gupshup"],
-  motto:     "Systems that scale, research that reproduces.",
 };
 ```
 
-- 🔭 &nbsp;Engineering **[SPHERE](https://sphere-project.net)** — an NSF-backed public research infrastructure for reproducible cybersecurity experimentation
-- 📄 &nbsp;Co-author on **ACSAC 2026** — *Building SPHERE: A Public Research Infrastructure for Reproducible Cybersecurity Experimentation*
+- 🔭 &nbsp;Engineering **[SPHERE](https://sphere-project.net)**, an NSF-backed public research infrastructure for reproducible cybersecurity experimentation
+- 📄 &nbsp;Co-author on **ACSAC 2026**: *Building SPHERE: A Public Research Infrastructure for Reproducible Cybersecurity Experimentation*
 - 🌱 &nbsp;Deepening my work in **distributed systems**, **cloud-native architecture**, and **developer tooling**
 - 💬 &nbsp;Happy to talk about **backend design**, **scalable systems**, **research infrastructure**, or **grad school in CS**
-- ⚡ &nbsp;Fun fact: I like my systems like my coffee — **consistent**, **available**, and occasionally **partition-tolerant**
+- ⚡ &nbsp;Most recent work: multi-threaded load clients, message queues, and sharded consumers for high-throughput services
 
 <br/>
 
@@ -67,8 +66,8 @@ const darsh = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=darshpandya02&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darshpandya02&layout=compact&langs_count=8&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages" />
+<img height="170" src="https://gh-readme-stats.vercel.app/api?username=darshpandya02&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" />
+<img height="170" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=darshpandya02&layout=compact&langs_count=8&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages" />
 
 <br/><br/>
 
@@ -111,16 +110,16 @@ const darsh = {
 <div align="center">
 
 <a href="https://github.com/darshpandya02/vate">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=darshpandya02&repo=vate&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" alt="vate" />
+  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=darshpandya02&repo=vate&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" alt="vate" />
 </a>
 <a href="https://github.com/darshpandya02/BSDS">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=darshpandya02&repo=BSDS&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" alt="BSDS" />
+  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=darshpandya02&repo=BSDS&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" alt="BSDS" />
 </a>
 <a href="https://github.com/darshpandya02/ceekay-chem">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=darshpandya02&repo=ceekay-chem&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" alt="ceekay-chem" />
+  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=darshpandya02&repo=ceekay-chem&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" alt="ceekay-chem" />
 </a>
 <a href="https://github.com/darshpandya02/health-dashboard">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=darshpandya02&repo=health-dashboard&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" alt="health-dashboard" />
+  <img src="https://gh-readme-stats.vercel.app/api/pin/?username=darshpandya02&repo=health-dashboard&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0D1117" alt="health-dashboard" />
 </a>
 
 </div>
@@ -128,7 +127,7 @@ const darsh = {
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **[vate](https://github.com/darshpandya02/vate)** | Restaurant matching and swiping app with real-time group decisioning | `TypeScript` `React` `Node` |
-| **[BSDS](https://github.com/darshpandya02/BSDS)** | Building Scalable Distributed Systems — load-tested multi-threaded clients, message queues, and sharded consumers | `C++` `Java` `RabbitMQ` |
+| **[BSDS](https://github.com/darshpandya02/BSDS)** | Load-tested multi-threaded clients, message queues, and sharded consumers | `C++` `Java` `RabbitMQ` |
 | **[ceekay-chem](https://github.com/darshpandya02/ceekay-chem)** | AI-integrated inventory management, order tracking, and purchasing platform | `TypeScript` `Next.js` |
 | **[ceekay-dashboard](https://github.com/darshpandya02/ceekay-dashboard)** | Internal monitoring tool for enterprise operations and business development | `TypeScript` `React` |
 | **[health-dashboard](https://github.com/darshpandya02/health-dashboard)** | Full-stack dashboard surfacing health metrics from wearable data streams | `Python` `Django` `React` |
@@ -183,8 +182,6 @@ I'm always open to conversations about **distributed systems**, **research infra
 <br/><br/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="" />
-
-<sub><i>"Systems that scale, research that reproduces."</i></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer" width="100%" alt="" />
 
