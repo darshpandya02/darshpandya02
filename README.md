@@ -23,7 +23,7 @@
 const darsh = {
   role:      "Software Engineer @ SPHERE Research Infrastructure",
   education: "M.S. Computer Science, Northeastern University",
-  location:  "Boston, Massachusetts, USA",
+  location:  "San Francisco, California, USA",
   focus:     ["Distributed Systems", "Backend Engineering", "Full-Stack", "Applied ML"],
   currently: "Building public research infrastructure for reproducible cybersecurity",
   previously:["NetSi", "Gupshup"],
